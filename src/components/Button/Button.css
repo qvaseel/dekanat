@@ -1,0 +1,24 @@
+.btnAuth {
+    width: 180px;
+    height: 60px;
+    border-radius: 10px;
+    border: 1px solid #024A68;
+    background-color: #024A68;
+    font-size: 28px;
+    font-weight: bold;
+    color: #ffffff;
+    cursor: pointer;
+    margin-top: 35px;
+}
+
+.btnHeader {
+    background-image: url(../../img/menu.svg);
+    background-repeat: no-repeat;
+    width: 30px;
+    cursor: pointer;
+    margin-right: 15px;
+    background-color: #0772A1;
+    border: none;
+    margin-top: 5px;
+    margin-left: 15px;
+}

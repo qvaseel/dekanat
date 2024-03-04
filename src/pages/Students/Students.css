@@ -1,0 +1,85 @@
+.flex {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.flex2 {
+    display: flex;
+    flex-direction: row;
+}
+
+.table {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.container {
+    display: block;
+    width: 75%;
+    margin-top: 18px;
+}
+
+.full {
+    margin: 0 auto;
+    margin-top: 18px;
+}
+
+.filter {
+    margin-bottom: 20px;
+}
+
+.buttons {
+    width: 220px;
+}
+
+.order p {
+    color: #000;
+    font-size: 20px;
+    margin: 0;
+    margin-right: 18px;
+}
+
+.buttons button:hover {
+    background-color: rgb(180, 206, 230);
+}
+
+.tableBtn {
+    border-radius: 10px 0px 0px 10px;
+    width: 110px;
+    background-color: #C5E4F2;
+    color: #000;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.cardsBtn {
+    border-radius: 00px 10px 10px 00px;
+    width: 110px;
+    background-color: #C5E4F2;
+    color: #000;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.activeButton {
+    background-color: orange;
+    color: #fff;
+}
+
+.scards {
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+.none {
+    display: none;
+}

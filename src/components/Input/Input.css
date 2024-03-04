@@ -1,0 +1,26 @@
+.inpAuth {
+    border: 1px solid #024A68;
+    border-radius: 10px;
+    background-color: inherit;
+    width: 380px;
+    height: 60px;
+    margin-bottom: 26px;
+    font-family: "Overpass", sans-serif;
+    padding-left: 20px;
+    color: #000;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.inpHeader {
+    border: none;
+    border-radius: 100px;
+    background-color: #83B8D0;
+    width: 600px;
+    height: 50px;
+    font-family: "Overpass", sans-serif;
+    padding-left: 25px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: normal;
+}

@@ -1,0 +1,50 @@
+.scard {
+    width: 450px;
+    border-radius: 10px;
+    border: 1px solid #024A68;
+    color: #000;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.sinfoLine:nth-child(2n+1) {
+    background-color: #CADEE7;
+}
+
+.msinfoLine:nth-child(2n+1) {
+    background-color: #CADEE7;
+}
+
+.sinfoLine {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.sinfoLine p {
+    text-align: right;
+}
+
+.scardText {
+    color: #000;
+    font-size: 24px;
+    margin: 0;
+}
+
+.modText {
+    margin: 0;
+    color: #000;
+    font-size: 24px;
+}
+
+.modSemestr {
+    margin: 0;
+    margin-bottom: 5px;
+    color: #000;
+    font-size: 18px;
+}
